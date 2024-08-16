@@ -11,7 +11,7 @@ Este projeto é uma API construída usando Java, Spring Boot, Postman, Swagger, 
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/Bellacmeireles/Web_api.git
+git clone https://github.com/Bellacmeireles/web_api.git
 ```
 2. Instalar dependências com Maven
 
